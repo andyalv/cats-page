@@ -22,3 +22,9 @@ pnpm-debug.log*
 
 # jetbrains setting folder
 .idea/
+
+# AI agents and skills
+.agents/
+.opencode/
+_bmad*/
+skills*.json
